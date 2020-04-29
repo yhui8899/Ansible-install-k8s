@@ -5,13 +5,13 @@
 下载Ansible部署文件：
 
 ```
-git clone https://github.com/lizhenliang/ansible-install-k8s
+git clone https://github.com/yhui8899/ansible-install-k8s
 cd ansible-install-k8s
 ```
 
 下载软件包并解压：
 
-云盘地址：https://pan.baidu.com/s/1lTXolmlcCJbei9HY2BJRPQ
+云盘地址：链接: https://pan.baidu.com/s/1PD9pE_AiZd2HiLUMMf4_BA 提取码: 6679
 ```
 tar zxf binary_pkg.tar.gz
 ```
